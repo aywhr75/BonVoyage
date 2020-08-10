@@ -14,7 +14,7 @@ Other then every thing is fine.
 
 ## If you want to test for payment using paypal, to do below
 
-Go to paypal deveoper page then make account   
+Go to paypal deveoper page then make an account   
 * Paypal Developer <https://developer.paypal.com/developer/accounts/>
 
 If you want to ask more info, please ask me.
