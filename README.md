@@ -12,7 +12,7 @@
    
 
 ```diff
-- This program has issue with connecting Heroku.   
+- This program has an issue with connecting Heroku.   
 + Heroku running is fine, but cannot get image file from mongoDB server.   
 + I am still try to figure out this issue now.   
 + Other then every thing is fine.
