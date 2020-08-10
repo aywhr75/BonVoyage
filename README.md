@@ -1,8 +1,9 @@
-To run this application,
+###To run this application,
 
-Make dev.js file  and put mongoDB root under config folder
-Needs " npm install " inside the root directory to download Server Dependencies
-Needs " npm install " inside the client directory to download Front-end Dependencies 
+##Make dev.js file  and put mongoDB root under config folder
+
+#Needs " npm install " inside the root directory to download Server Dependencies
+#Needs " npm install " inside the client directory to download Front-end Dependencies 
 
 This program has issue with connecting Heroku. 
 Heroku running is fine, but cannot get image file from mongoDB server.
