@@ -1,23 +1,21 @@
-Boilerplate-mern-stack is being sponsored by the following tool <br />
-Please help to support us by taking a look and signing up to a free trial
-<a href="https://tracking.gitads.io/?repo=boilerplate-mern-stack"><img src="https://images.gitads.io/boilerplate-mern-stack" alt="GitAds"/></a> 
+To run this application,
 
+Make dev.js file  and put mongoDB root under config folder
+Needs " npm install " inside the root directory to download Server Dependencies
+Needs " npm install " inside the client directory to download Front-end Dependencies 
 
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+This program has issue with connecting Heroku. 
+Heroku running is fine, but cannot get image file from mongoDB server.
+I am still try to figure out this issue now. 
+Other then every thing is fine.
 
-To use this application, 
+If you want to test for payment using paypal, to do below
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
+Go to paypal deveoper page then make account
+https://developer.paypal.com/developer/accounts/
 
+If you want to ask more info, please ask me.
 
-If you have problem, feel free to ask me ^^ 
-
-You can watch the tutorial for this app.
-
-https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
+Thank you
 
 
